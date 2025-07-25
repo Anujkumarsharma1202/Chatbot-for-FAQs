@@ -1,0 +1,31 @@
+[
+  {
+    "question": "What is AI?",
+    "answer": "AI stands for Artificial Intelligence, a field of computer science that enables machines to mimic human intelligence."
+  },
+  {
+    "question": "What is machine learning?",
+    "answer": "Machine learning is a subset of AI focused on building systems that learn from data."
+  },
+  {
+    "question": "What programming languages are used in AI?",
+    "answer": "Common AI languages include Python, R, Java, and C++."
+  },
+  {
+    "question": "What is NLP?",
+    "answer": "NLP stands for Natural Language Processing. It helps machines understand human language."
+  },
+  {
+  "question": "What is deep learning?",
+  "answer": "Deep learning is a type of machine learning that uses neural networks with many layers."
+  },
+  {
+    "question": "Hello",
+    "answer": "I am Good What about you"
+  },
+  {
+    "question" : "What is my Name?",
+    "answer" : "Your name is Anuj."
+  }
+
+]
